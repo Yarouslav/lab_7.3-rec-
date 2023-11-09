@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\Lenovo\Desktop\лаби\АП\lab_7.3(rec)\UnitTest1\UnitTest1.cpp(5,12): error C2065: 'ArrayTest': undeclared identifier
+C:\Users\Lenovo\Desktop\лаби\АП\lab_7.3(rec)\UnitTest1\UnitTest1.cpp(5,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Lenovo\Desktop\лаби\АП\lab_7.3(rec)\UnitTest1\UnitTest1.cpp(6,1): error C2059: syntax error: '{'
+C:\Users\Lenovo\Desktop\лаби\АП\lab_7.3(rec)\UnitTest1\UnitTest1.cpp(6,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Lenovo\Desktop\лаби\АП\lab_7.3(rec)\UnitTest1\UnitTest1.cpp(6,1): error C2447: '{': missing function header (old-style formal list?)
